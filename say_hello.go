@@ -1,9 +1,7 @@
-package main
+package go_hello_world
 
-func sayHello(name string) string {
+func SayHello(name string) string {
 	return "hello" + name
 }
 
-func main() {
 
-}
